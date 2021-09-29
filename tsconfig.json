@@ -4,5 +4,6 @@
     "module": "CommonJS",
     "esModuleInterop": true,
     "allowJs": true,
+    "strictNullChecks": true
   }
 }
